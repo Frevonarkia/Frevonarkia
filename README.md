@@ -43,8 +43,8 @@ Estou construindo minha base em programação com **projetos reais, estudos e mu
 
 | Projeto | Descrição | Acesso |
 | :--- | :--- | :--- |
-| 🏡 **VerdeLar Imóveis** | Interface web responsiva, navegação, layout e acessibilidade. | *Repositório público não localizado neste perfil* |
-| 🥐 **Forninho do Rio** | Cardápio digital com HTML, CSS e interações em JavaScript. | *Repositório público não localizado neste perfil* |
+| 🏡 **VerdeLar Imóveis** | Interface web responsiva, navegação, layout e acessibilidade. | *Privado* |
+| 🐍 **PetShop Focinho ** | Um projeto desenvolvido para a faculdade, utilizando HTML, CSS, JavaScript, PHP e MySQL. | [Ver repositório](https://github.com/malheirosmaria78-code/petshop-focinho.git)|
 | 🐍 **Conversor de imagens** | Projeto em Python para converter imagens em PDF. | [Ver repositório](https://github.com/Frevonarkia/conversor) |
 | 📚 **Meus Estudos** | Espaço reservado para estudos e práticas. | [Ver repositório](https://github.com/Frevonarkia/MeusEstudos) |
 
