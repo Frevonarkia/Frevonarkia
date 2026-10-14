@@ -15,7 +15,6 @@
 
 
 ```console
-felipe@frevo:~$ cat about.txt
 
 nome        : Felipe Delson
 formacao    : Análise e Desenvolvimento de Sistemas (em andamento)
