@@ -1,92 +1,87 @@
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b0f19,35:1b1f33,70:2a2345,100:2b5d63&text=Felipe%20Delson&fontColor=eae7ff&fontSize=46&fontAlignY=38&desc=dev%20in%20progress%20%7C%20late%20night%20coding&descAlignY=60&descSize=16&animation=fadeIn" alt="Felipe Delson banner"/>
+  <img src="./assets/lofi-night.webp" alt="Ilustração lo-fi de um quarto de programação à noite, com chuva e cidade iluminada" width="100%" />
+
+  <h1>Felipe Delson <sub>🌙</sub></h1>
+  <p><strong>Desenvolvedor em formação • ADS • Front-end &amp; Back-end</strong></p>
+  <p><code>usuario@frevo:~$ ./build-my-future.sh</code></p>
+  <p>
+    <a href="https://github.com/Frevonarkia?tab=repositories"><img alt="Repositórios" src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-171b2c?style=for-the-badge&logo=github&logoColor=d9c6ff" /></a>
+    <a href="https://github.com/Frevonarkia"><img alt="Perfil GitHub" src="https://img.shields.io/badge/GITHUB-171b2c?style=for-the-badge&logo=github&logoColor=9ddbd1" /></a>
+  </p>
 </div>
 
-<div align="center">
-  <code>~/felipe</code> &nbsp;•&nbsp; <code>ADS student</code> &nbsp;•&nbsp; <code>front-end + back-end</code> &nbsp;•&nbsp; <code>building, breaking, learning</code>
-</div>
-
-<br>
+---
 
 
-```bash
-felipe@dev:~$ cat about.txt
-- Estudante de Análise e Desenvolvimento de Sistemas
-- Explorando desenvolvimento web do front-end ao back-end
-- Aprendendo na prática com projetos, bugs e muito estudo
-- Curto terminal aberto, editor de código e música lo-fi ao fundo
+
+```console
+felipe@frevo:~$ cat about.txt
+
+nome        : Felipe Delson
+formacao    : Análise e Desenvolvimento de Sistemas (em andamento)
+foco        : Desenvolvimento web, do front-end ao back-end
+mentalidade : Entender como funciona, não apenas fazer funcionar
+ambiente    : Debian x Windows • VS Code • terminal • lo-fi
+status      : Aprendendo, experimentando e construindo
 ```
 
-Gosto de entender **como as coisas funcionam**, e não só fazer o código rodar.  
-Atualmente estou focado em **HTML, CSS, JavaScript, PHP e MySQL**, enquanto evoluo com projetos próprios e acadêmicos.
-
----
-
+Estou construindo minha base em programação com **projetos reais, estudos e muita prática**. Meu foco atual é aprofundar **JavaScript, PHP e MySQL**, sem deixar de melhorar HTML e CSS.
 
 
 <div align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-121826?style=for-the-badge&logo=html5&logoColor=f4a261" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-121826?style=for-the-badge&logo=css3&logoColor=8ecae6" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-121826?style=for-the-badge&logo=javascript&logoColor=f6d365" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-121826?style=for-the-badge&logo=php&logoColor=cdb4ff" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-121826?style=for-the-badge&logo=mysql&logoColor=90e0ef" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark" alt="HTML5, CSS3, JavaScript, PHP e MySQL" />
 </div>
 
-<br>
-
+<sub>Essas são tecnologias que utilizo e estudo. Estou em evolução, não me apresento como especialista nelas.</sub>
 
 
 <div align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-121826?style=flat-square&logo=git&logoColor=f4a261" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121826?style=flat-square&logo=github&logoColor=f8f9fa" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-121826?style=flat-square&logo=visualstudiocode&logoColor=8ecae6" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-121826?style=flat-square&logo=linux&logoColor=f6d365" />
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-121826?style=flat-square&logo=debian&logoColor=ffafcc" />
-  <img alt="MySQL Workbench / DBeaver" src="https://img.shields.io/badge/DBeaver-121826?style=flat-square&logoColor=f8f9fa&label=DBeaver" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,debian&theme=dark" alt="Git, GitHub, VS Code, Linux e Debian" />
+  <p><code>OS: Debian</code> · <code>Editor: VS Code</code> · <code>Versionamento: Git/GitHub</code></p>
 </div>
 
----
 
 
+| Projeto | Descrição | Acesso |
+| :--- | :--- | :--- |
+| 🏡 **VerdeLar Imóveis** | Interface web responsiva, navegação, layout e acessibilidade. | *Repositório público não localizado neste perfil* |
+| 🥐 **Forninho do Rio** | Cardápio digital com HTML, CSS e interações em JavaScript. | *Repositório público não localizado neste perfil* |
+| 🐍 **Conversor de imagens** | Projeto em Python para converter imagens em PDF. | [Ver repositório](https://github.com/Frevonarkia/conversor) |
+| 📚 **Meus Estudos** | Espaço reservado para estudos e práticas. | [Ver repositório](https://github.com/Frevonarkia/MeusEstudos) |
 
-| Projeto | O que pratiquei / desenvolvi |
-| :--- | :--- |
-| **VerdeLar Imóveis** 🏡 | Layout responsivo, navegação, componentes visuais e recursos de acessibilidade. |
-| **Forninho do Rio** 🥐 | Cardápio digital com interações em JavaScript e estrutura de páginas web. |
-| **Projetos acadêmicos** 📚 | Exercícios e aplicações com lógica, PHP, SQL e modelagem de dados. |
-
-
----
+> Projetos em evolução. Vou publicar e documentar novas versões conforme avanço nos estudos.
 
 
 
 ```text
-[✓] Fundamentos de HTML e CSS
-[~] JavaScript e lógica de programação
-[~] PHP + MySQL
-[ ] Projetos full-stack mais completos
+[✓] HTML e CSS: fundamentos e páginas responsivas
+[~] JavaScript: lógica, DOM e interatividade
+[~] PHP + MySQL: back-end e banco de dados
+[ ] Aplicações full-stack com autenticação e CRUD
+[ ] Testes, boas práticas e deploy
 [ ] Desenvolvimento mobile
 ```
 
-<sub>✓ base praticada · ~ em evolução · ☐ próximo objetivo</sub>
+<sub>✓ já praticado · ~ estudando e aprofundando · □ próximo objetivo</sub>
 
----
 
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Frevonarkia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=cdb4ff&text_color=e9edf5&icon_color=90e0ef" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frevonarkia&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=cdb4ff&text_color=e9edf5" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frevonarkia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c7b8ff&text_color=b8c0d8&icon_color=8fd3c1" alt="Estatísticas de GitHub de Frevonarkia" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frevonarkia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c7b8ff&text_color=b8c0d8" alt="Linguagens nos repositórios públicos de Frevonarkia" height="170" />
+</div>
+
+<sub>Os cartões acima dependem de um serviço externo e podem não carregar em alguns momentos. As linguagens refletem repositórios públicos, não o nível de domínio.</sub>
+
+
+<div align="center">
+  <a href="https://github.com/Frevonarkia"><img src="https://img.shields.io/badge/GitHub-Frevonarkia-161a27?style=for-the-badge&logo=github&logoColor=e9e4ff" alt="Perfil no GitHub" /></a>
+  <a href="https://github.com/Frevonarkia?tab=repositories"><img src="https://img.shields.io/badge/Ver%20projetos-161a27?style=for-the-badge&logo=git&logoColor=93dace" alt="Ver repositórios" /></a>
 </div>
 
 ---
 
-
-```bash
-"Sem atalhos para entender.
-Um passo, um bug e um commit de cada vez."
-```
-
 <div align="center">
-  <sub>🌙 made with curiosity, caffeine & lo-fi beats</sub>
+  <samp>felipe@frevo:~$ echo "Um commit de cada vez."</samp>
+  <p><sub>☕ código, curiosidade, chuva e lo-fi | <strong>still building...</strong></sub></p>
 </div>
